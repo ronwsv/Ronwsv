@@ -18,3 +18,23 @@
   <img align="center" alt="react" height="50" width="50" src="https://github.com/ronwsv/Ronwsv/blob/main/react-1-logo.svg">
 </div>
 
+## Contador de Reações
+
+<div style="display: inline_block; margin-top: 20px;">
+  <img align="center" alt="react-icon" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Emoji_u1f44d.svg/1200px-Emoji_u1f44d.svg.png">
+  <span id="react-count">0</span>
+</div>
+
+<script>
+  // Exemplo de contagem de reações
+  let reactCount = 0;
+
+  // Função para incrementar o contador
+  function addReact() {
+    reactCount++;
+    document.getElementById('react-count').innerText = reactCount;
+  }
+
+  // Adiciona um evento para incrementar ao clicar
+  document.getElementById('react-count').addEventListener('click', addReact);
+</script>
