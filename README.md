@@ -16,7 +16,7 @@ Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, esto
   <img align="center" alt="html" height="50" width="50" src="https://github.com/ronwsv/Ronwsv/blob/main/html5-original-wordmark.svg">
   <img align="center" alt="java" height="50" width="50" src="https://github.com/ronwsv/Ronwsv/blob/main/javascript-original.svg">
   <img align="center" alt="node" height="50" width "50" src "https://github.com/ronwsv/Ronwsv/blob/main/nodejs-1-logo.svg">
-  <img align "center" alt "react "height "50 "width "50 "src "https://github.com/ronwsv/Ronwsv/blob/main/react-1-logo.svg">
+  <img align "center" alt "react "height "50 "width "50 "src "https://github.com/ronwsv/Ronwsv/blob/main/react.svg">
 </div>
 
 **Linguagens:** Python, JavaScript, HTML, CSS  
