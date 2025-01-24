@@ -30,7 +30,8 @@
 
 <p align='center'>
  
-  ![Snake animation](https://github.com/ronwsv/ronwsv/blob/output/github-contribution-grid-snake.svg)
+  <!-- Versão escura -->
+  ![Snake animation](https://github.com/ronwsv/ronwsv/blob/output/github-contribution-grid-snake-dark.svg)
 </p>
 
 
